@@ -8,6 +8,8 @@ CampusNotes is a student project for managing study notes.
 * Manage subject information
 * Store notes in one place
 
+
+
 \## About
 
 
